@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day19\ConAppAssignment22_Reflections\ConAppAssignment22_Reflections\bin\Debug\ConAppAssignment22_Reflections.exe.config
+D:\Mphasis\Live Session\Day19\ConAppAssignment22_Reflections\ConAppAssignment22_Reflections\bin\Debug\ConAppAssignment22_Reflections.exe
+D:\Mphasis\Live Session\Day19\ConAppAssignment22_Reflections\ConAppAssignment22_Reflections\bin\Debug\ConAppAssignment22_Reflections.pdb
+D:\Mphasis\Live Session\Day19\ConAppAssignment22_Reflections\ConAppAssignment22_Reflections\obj\Debug\ConAppAssignment22_Reflections.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day19\ConAppAssignment22_Reflections\ConAppAssignment22_Reflections\obj\Debug\ConAppAssignment22_Reflections.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day19\ConAppAssignment22_Reflections\ConAppAssignment22_Reflections\obj\Debug\ConAppAssignment22_Reflections.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day19\ConAppAssignment22_Reflections\ConAppAssignment22_Reflections\obj\Debug\ConAppAssignment22_Reflections.exe
+D:\Mphasis\Live Session\Day19\ConAppAssignment22_Reflections\ConAppAssignment22_Reflections\obj\Debug\ConAppAssignment22_Reflections.pdb
