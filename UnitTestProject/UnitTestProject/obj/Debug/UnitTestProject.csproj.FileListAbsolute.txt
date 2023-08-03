@@ -1,0 +1,15 @@
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Mphasis\Live Session\Day19\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb

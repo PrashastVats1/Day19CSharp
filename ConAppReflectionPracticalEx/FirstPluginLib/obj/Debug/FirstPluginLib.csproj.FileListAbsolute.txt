@@ -1,0 +1,6 @@
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\FirstPluginLib\bin\Debug\FirstPluginLib.dll
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\FirstPluginLib\bin\Debug\FirstPluginLib.pdb
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\FirstPluginLib\obj\Debug\FirstPluginLib.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\FirstPluginLib\obj\Debug\FirstPluginLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\FirstPluginLib\obj\Debug\FirstPluginLib.dll
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\FirstPluginLib\obj\Debug\FirstPluginLib.pdb

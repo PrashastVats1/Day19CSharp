@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\ConAppReflectionPracticalEx\bin\Debug\ConAppReflectionPracticalEx.exe.config
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\ConAppReflectionPracticalEx\bin\Debug\ConAppReflectionPracticalEx.exe
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\ConAppReflectionPracticalEx\bin\Debug\ConAppReflectionPracticalEx.pdb
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\ConAppReflectionPracticalEx\obj\Debug\ConAppReflectionPracticalEx.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\ConAppReflectionPracticalEx\obj\Debug\ConAppReflectionPracticalEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\ConAppReflectionPracticalEx\obj\Debug\ConAppReflectionPracticalEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\ConAppReflectionPracticalEx\obj\Debug\ConAppReflectionPracticalEx.exe
+D:\Mphasis\Live Session\Day19\ConAppReflectionPracticalEx\ConAppReflectionPracticalEx\obj\Debug\ConAppReflectionPracticalEx.pdb
